@@ -5,7 +5,7 @@ This portfolio is made for the Final Project of Bootcamp Data Science. The Sourc
 This dataset is data on the energy load consumed by DAEWOO Steel Co. Ltd  for 1 year (2018)
 
 # Objective
-Energy consumption is one of the important aspects in the industrial world. The more effectively the energy is consumed, the more efficient the costs incurred. This project presents an analysis of what factors most influence the Type of Energy Load and What Factor which triggers an energy load that is classified as a maximum load also predict the Type of Energy Load to analyze how effectively the energy load has been consumed
+Energy consumption is one of the important aspects in the industrial world. The more effectively the energy is consumed, the more efficient the costs incurred. This project presents an analysis of what factors most influence the Type of Energy Load and What Factor which triggers an energy load that is classified as a maximum load also how effectively the energy load has been consumed
 
 # Attribute Information
 1. Date – datetime per 15 minutes
