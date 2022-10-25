@@ -46,3 +46,4 @@ Energy consumption is one of the important aspects in the industrial world. The 
 4. SHAP Feature Importance where this method will provide SHAP (SHapley Additive ExPlanations) values which are based on cooperative game theory and are used to increase transparency and interpretation of machine learning models. From the 3 summary plots above, all of them show the same thing, so the conclusions from the modeling are considered the same as the conclusions from the EDA that has been done
 5. When viewed from the energy load distribution plot, it can be seen that the light load has the highest number among the others. So, it can be said that energy consumption for 2018 is still considered effective
 
+Article Link : https://medium.com/@ersazhafrina/analysis-steel-industry-energy-consumption-with-shap-feature-importance-and-eda-31491d1d672d
