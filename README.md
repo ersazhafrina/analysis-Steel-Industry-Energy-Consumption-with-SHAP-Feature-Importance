@@ -1,0 +1,2 @@
+# analysis-Steel-Industry-Energy-Consumption-with-SHAP-Feature-Importance
+This portfolio is made for the Final Project of Bootcamp Data Science. The Source Code will explain in Bahasa. This Project is analyzing about What factors most influence the Type of Energy Load, What Factor which triggered an energy load that is classified as a maximum load, how effectively the energy load has been consumed.
